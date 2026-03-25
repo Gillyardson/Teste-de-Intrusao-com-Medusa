@@ -1,10 +1,10 @@
-# Teste-de-Intrusao-com-Medusa
+# Teste-de-Intrusão-com-Medusa
 
 🛡️Este projeto demonstra a execução de ataques de força bruta e password spraying em um ambiente controlado, 
 focando na identificação de vulnerabilidades e implementação de defesas.
 
 🏗️ 1. Configuração do Laboratório (Lab Setup)
-Para garantir a segurança, o ambiente é 100% isolado via VirtualBox/VMware.
+Para garantir a segurança, o ambiente é 100% isolado via VirtualBox/VMware./
 •	Atacante: Kali Linux 🐉 (IP: 192.168.56.10)
 •	Alvo: Metasploitable 2 🎯 (IP: 192.168.56.11)
 •	Rede: Modo Host-Only (comunicação interna sem exposição à internet).
