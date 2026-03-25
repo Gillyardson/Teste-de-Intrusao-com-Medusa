@@ -4,6 +4,7 @@
 focando na identificação de vulnerabilidades e implementação de defesas.
 
 🏗️ 1. Configuração do Laboratório (Lab Setup)..
+
 Para garantir a segurança, o ambiente é 100% isolado via VirtualBox/VMware.
 
 •	Atacante: Kali Linux 🐉 (IP: 192.168.56.10)..
