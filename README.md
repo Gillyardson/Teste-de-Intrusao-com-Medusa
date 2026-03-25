@@ -4,7 +4,8 @@
 focando na identificação de vulnerabilidades e implementação de defesas.
 
 🏗️ 1. Configuração do Laboratório (Lab Setup)
-Para garantir a segurança, o ambiente é 100% isolado via VirtualBox/VMware./
+Para garantir a segurança, o ambiente é 100% isolado via VirtualBox/VMware.
+
 •	Atacante: Kali Linux 🐉 (IP: 192.168.56.10)
 •	Alvo: Metasploitable 2 🎯 (IP: 192.168.56.11)
 •	Rede: Modo Host-Only (comunicação interna sem exposição à internet).
@@ -12,6 +13,7 @@ Para garantir a segurança, o ambiente é 100% isolado via VirtualBox/VMware./
 ⚔️ 2. Execução dos Ataques
 📂 Ataque 01: Força Bruta em FTP
 Utilizamos o Medusa para adivinhar a senha do serviço de transferência de arquivos.
+
 •	Ferramenta: medusa com módulo -M ftp.
 •	Estratégia: Testar a wordlist rockyou.txt contra o usuário msfadmin.
 
